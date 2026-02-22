@@ -51,7 +51,7 @@ I combine analytical thinking from social sciences with strong technical problem
 
 ---
 
-## 💼 Featured Projects
+## 💼 Recent Projects
 
 ### 🎬 Movie Ticket Booking System
 - Full-stack web application using Spring Boot + Thymeleaf  
