@@ -114,6 +114,9 @@ I combine analytical thinking from social sciences with strong technical problem
   <a href="https://t.me/Thirugnananam" target="_blank">
     <img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram" width="40" height="40"/>
   </a>
+  <a href="https://drive.google.com/file/d/1FXKNDJDdhdNuA-G2XUsH4Cs6NoAxOTcu/view?usp=drive_link" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000" alt="telegram" width="40" height="40"/>
+  </a>
 </p> 
 
 ---
